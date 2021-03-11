@@ -27,8 +27,6 @@ login_lib = static_library(
         'config.h',
         'crypto.c',
         'crypto.h',
-        'lockdown.c',
-        'lockdown.h',
         'login.c',
         'openssl/base64.c',
         'ui.c',
